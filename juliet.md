@@ -13,7 +13,7 @@
 - Fort Collins, CO; Workshop; RAPIDD Meeting on Inference for Cross-Species Transmission Dynamics
 - Washington, DC; Conference; RAPIDD Annual Convocation
 - Dhaka, Bangladesh; Workshop; Developing a Research Agenda on the Ecology and Epidemiology of Japanese Encephalitis in Bangladesh
-- Dhaka, Bangladesh; Teaching; Mathematical modeling of infectious disease dynamics
+- Dhaka, Bangladesh; Teaching; Mathematical modeling of infectious disease dynamics, Centre for Communicable Diseases, icddr,b
 - Loveland, CO; Conference; Smith Fellows Retreat
 - Cambridge, UK; Workshop; Infectious Disease Dynamics, Newton Institute for Mathematical Sciences
 - Cambridge, UK; Workshop; RAPIDD Meeting on Small Mammal Reservoirs of Infection
